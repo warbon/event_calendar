@@ -7,3 +7,4 @@
 - Setup your and update your `.env` file - database name, username and password
 - Run `php artisan migrate`
 - Run `npm run dev` to compile assets
+- Demo Link => https://event-calendaryo.herokuapp.com/
